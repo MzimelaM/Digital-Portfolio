@@ -1,5 +1,6 @@
 # Digital-Portfolio
 ## Career Counselling
+![CV and Interview Workshop Screenshot](.png)
 
 ### Reflection (STAR)
 
