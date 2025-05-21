@@ -1,6 +1,6 @@
 # Digital-Portfolio
 ## Career Counselling
-![CV and Interview Workshop Screenshot](.png)
+![CV and Interview Workshop Screenshot](https://github.com/MzimelaM/Digital-Portfolio/blob/main/images/Screenshot%202025-05-22%20013310.png)
 
 ### Reflection (STAR)
 
