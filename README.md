@@ -2,7 +2,7 @@
 ## Career Counselling
 ![CV and Interview Workshop Screenshot](https://github.com/MzimelaM/Digital-Portfolio/blob/main/images/Screenshot%202025-05-22%20013310.png)
 
-### Reflection (STAR)
+### Reflection 
 
 **S – Situation:**
 I was privileged to attend a CV and interview preparation workshop in the Work Readiness Programme hosted by the Jobbox as I waws selected to be part of the internship programme.
@@ -19,7 +19,7 @@ I learned how to deal with employers in a more professional way. I revised my CV
 ## Skills and Interests
 ![JavaScript Certificate](https://github.com/MzimelaM/Digital-Portfolio/blob/main/images/Screenshot%202025-05-22%20015807.png)
 
-###  Reflection (STAR)
+###  Reflection 
 
 **S – Situation:**
 As part of my self-improvement and technical skills development as an ICT practitioner, I enrolled in an online course from Cisco Networking Academy entitled "JavaScript Essentials." I did this because I am highly interested in web development, and I needed to reinforce my programming skills with a widely used scripting language.
@@ -35,7 +35,7 @@ By the end of the course, I was successful in achieving the Cisco JavaScript Ess
 
 ## Personality Assessment
 ![Personality Assessment Result](https://github.com/MzimelaM/Digital-Portfolio/blob/main/images/Screenshot%202025-05-01%20111453.png)
-### Reflection (STAR)
+### Reflection 
 
 **S – Situation:**  
 As part of the Work Readiness Programme, I completed a personality test designed to help individuals learn about their behavior, strengths, and areas for development. I used an online tool that determined my personality type to be a "Commander" (ENTJ) and highlighted that I am highly extraverted. This sort is distinguished by leadership potential, organizational strategizing, and a solid goal-realization orientation. I needed to know how my results would inform me about my vocational interests, teamwork, and workplace communication style.
@@ -51,10 +51,10 @@ The test helped me confirm that leadership and communication are my strengths, a
 
 ## Create a CV
 
-### 📝 Evidence
+###  Evidence
 ![My CV Screenshot](https://github.com/MzimelaM/Digital-Portfolio/blob/main/images/Screenshot%202025-05-22%20023336.png)
 
-### Reflection (STAR)
+### Reflection 
 
 **S – Situation:**
 In preparation for future employment and internship opportunities, I needed to create a professional CV that clearly articulates my qualifications, technical abilities, and career goals as a third-year ICT student with a major in Applications Development. I was well aware of how possessing a well-prepared CV would assist me in making a good impression and highlighting my potential employers in a highly competitive job market.
@@ -82,6 +82,23 @@ The final version of my CV demonstrates both my academic accomplishment and the 
 
 ### Evidence
 ![Internship Application Screenshot](https://github.com/MzimelaM/Digital-Portfolio/blob/main/images/Screenshot%202025-05-22%20024914.png)
+### Reflection 
+
+**S – Situation:**
+Having completed my CV via the Work Readiness Programme, I actively began seeking opportunities to apply my skills and gain hands-on experience. I discovered an online vacant IT internship whose description was in line with my interest in application development and web technologies. It was the perfect chance to not only exercise what I've been taught but also to begin transitioning from student life to professional life.
+
+**T – Task:**
+My task was to write and submit a professional job cover letter, as well as my own custom-created CV and personal motivation message, for the IT internship. The objective was to utilize the material I had learned on marketing myself effectively to employers and gain some practice in the process of searching for employment. This involved researching the business, reading through the job advert, confirming my qualifications were suitable for the role, and applying in a timely and professional fashion.
+
+**A – Action:**
+For starters, I reviewed the internship posting with care in order to find out what the employer asked for — like technical abilities like Java, Python, and web development, which I had mentioned in my CV. I actually modified the CV to an extent in order to bring out the most relevant abilities appropriate to this specific position, like my working experience in Flutter and Firebase, which actually gives some advantage in mobile application development activity.
+
+Next, I crafted a concise and personalized application message wherein I self-presented, expressed my interest in the job, and briefly explained why I am ideal for the job considering my ICT: Applications Development background. I ensured my tone remained professional, brief, and positive.
+
+I posted my CV, reverified my contact information, and finally submitted the application through the job portal. For documenting this step for my portfolio, I took a screenshot of the confirmation page to have proof of submission.
+
+**R – Result:**
+Submission of this application was a major achievement for me. It made the practice of creating a CV into a classroom exercise into an actual action with potential career implications. It gave me confident that I am ready to proceed to the next level into the industry. I also gained knowledge regarding employers' use of job title wording and the importance of customizing my CV and message for each job. Whether I am selected or not for this specific internship, I now feel confident and ready to interview for like positions in the future. The process of forwarding my CV brought job searching to reality and to be within reach. Most importantly, it made me understand that I am not just getting ready to be a professional, I already am a professional, taking conscious steps towards my destiny.
 
 
 
