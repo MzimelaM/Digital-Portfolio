@@ -17,7 +17,7 @@ During the workshop, I had close observations on how to prepare a professional C
 I learned how to deal with employers in a more professional way. I revised my CV based on the feedback received during the workshop and now have the confidence to go for interviews and talk about my strengths and experiences.
 
 ## Skills and Interests
-![JavaScript Certificate](images/javascript-certificate.png)
+![JavaScript Certificate](https://github.com/MzimelaM/Digital-Portfolio/blob/main/images/Screenshot%202025-05-22%20015807.png)
 
 ###  Reflection (STAR)
 
