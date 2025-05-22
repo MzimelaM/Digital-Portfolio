@@ -49,6 +49,36 @@ I read through the personality type explanation in depth and took notes on chara
 **R – Result:**
 The test helped me confirm that leadership and communication are my strengths, and that I am good at roles in which I inspire others and have responsibility. It also helped me understand the importance of emotional intelligence — being sensitive to how others feel and adjusting my style to suit. With this self-knowledge, I now feel better equipped to sell myself in interviews and group environments, not only my leadership skills but also my passion for working with and learning from others. Going forward, I will be looking for career roles in project management, systems analysis, or team-based ICT environments where my strategic mind and outgoing personality can add value. The assessment has been an excellent tool for career insight and personal growth, and I now have specific traits that I can cite in an interview to demonstrate my strengths and development process.
 
+## Create a CV
+
+### 📝 Evidence
+![My CV Screenshot](images/my-cv.png)
+
+### Reflection (STAR)
+
+**S – Situation:**
+In preparation for future employment and internship opportunities, I needed to create a professional CV that clearly articulates my qualifications, technical abilities, and career goals as a third-year ICT student with a major in Applications Development. I was well aware of how possessing a well-prepared CV would assist me in making a good impression and highlighting my potential employers in a highly competitive job market.
+
+**T – Task:**
+My task was to design and write a comprehensive CV that would be able to present my academic background, hands-on experience, volunteering, and personal projects. The CV was supposed to be brief, clear, and aligned with tech industry standards. I aimed at not only completing the academic requirement but also having the CV ready for actual employment purposes, particularly for internships or junior programmers for software development and web/mobile app design.
+
+**A – Action:**
+To start, I referred to CV writing best practice like CPUT career guidance recommendations, LinkedIn Learning samples, and industry blogs. I chose a clean layout with emphasis on readability and tone of professionalism. I included my full name, contact details, and bold career objective that indicates my interest in software engineering and willingness to grow in challenging, real-world environments.
+
+For the **Education** section, I added my currently undergoing diploma at CPUT and Port Shepstone High School matric certificate. I also went the extra step in the **Technical Skills** section, ensuring that I categorized my proficiency with programming languages Java, Python, and Dart, and frameworks and tools Flutter and Firebase, proof of my interest in creating mobile apps.
+
+I also included **Soft Skills** like problem-solving, communication, and teamwork to show that I am not just technically capable but can also excel in team-based situations.
+
+Under the **Work Experience** category, despite lacking formal work, I included my volunteer position as a cashier at Thengeduze Liquor Store. This demonstrated that I am proactive and experienced in administration and inventory handling. It also served to prove soft skills such as attention to detail, dependability, and exposure to general business operations.
+
+The **Projects** section was most exciting for me. I included group projects such as the **QR Code Attendance System**, which I coded with Flutter and Firebase. The project showcases my practical experience with real-time authentication and user interface design. I included the **E-commerce Art Website** project also, where I offered front-end development using HTML, CSS, and JavaScript. These projects allowed me to showcase my collaborative abilities, creativity, and technical problem-solving in real development environments.
+
+Finally, I added an **Additional Information** section where I stated that I would be keen to be available for junior roles or internships, and I was interested in web and mobile development. I made sure the CV was professionally laid out, aesthetically pleasing, and error-free before saving it in PDF format. 
+
+**R – Result:**
+The final version of my CV demonstrates both my academic accomplishment and the experiential learning that I've gained through course work and projects. It clearly defines a vision of who I am as a developing professional — excited about software programming, committed to continuous learning, and willing to add value to working groups. Through this exercise, I felt more assured about how to sell myself to potential employers. I now have a CV that is job-ready and can be used for internships, graduate schemes, or applying for jobs, and the skill to keep it current as I develop my career. This exercise made me realize that creating a CV is not simply an administrative process, but a personal branding tool that makes me stop and think about my path, achievements, and direction.
+
+
 
 
 
