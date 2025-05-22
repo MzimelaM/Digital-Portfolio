@@ -81,7 +81,7 @@ The final version of my CV demonstrates both my academic accomplishment and the 
 ## CV Submission
 
 ### Evidence
-![Internship Application Screenshot](images/internship-application.png)
+![Internship Application Screenshot](https://github.com/MzimelaM/Digital-Portfolio/blob/main/images/Screenshot%202025-05-22%20024914.png)
 
 
 
