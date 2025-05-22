@@ -16,7 +16,7 @@ During the workshop, I had close observations on how to prepare a professional C
 **R – Result:**
 I learned how to deal with employers in a more professional way. I revised my CV based on the feedback received during the workshop and now have the confidence to go for interviews and talk about my strengths and experiences.
 
-##Skills and Interests
+## Skills and Interests
 
 ###  Reflection (STAR)
 
