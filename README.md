@@ -78,6 +78,13 @@ Finally, I added an **Additional Information** section where I stated that I wou
 **R – Result:**
 The final version of my CV demonstrates both my academic accomplishment and the experiential learning that I've gained through course work and projects. It clearly defines a vision of who I am as a developing professional — excited about software programming, committed to continuous learning, and willing to add value to working groups. Through this exercise, I felt more assured about how to sell myself to potential employers. I now have a CV that is job-ready and can be used for internships, graduate schemes, or applying for jobs, and the skill to keep it current as I develop my career. This exercise made me realize that creating a CV is not simply an administrative process, but a personal branding tool that makes me stop and think about my path, achievements, and direction.
 
+## CV Submission
+
+### Evidence
+![Internship Application Screenshot](images/internship-application.png)
+
+
+
 
 
 
