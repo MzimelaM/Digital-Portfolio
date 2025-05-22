@@ -34,7 +34,7 @@ I set aside quality time each week to study the modules. I coded through interac
 By the end of the course, I was successful in achieving the Cisco JavaScript Essentials certification. Above all, I developed confidence in simple script writing, DOM manipulation, and fundamental concepts of programming. The course not only reaffirmed my interest in web development but also motivated me to pursue more advanced subjects in JavaScript, like application of React frameworks. Through the experience, I also learned good study habits and the need for continuous learning in the field of technology.
 
 ## Personality Assessment
-![Personality Assessment Result](images/personality-assessment.png)
+![Personality Assessment Result](https://github.com/MzimelaM/Digital-Portfolio/blob/main/images/Screenshot%202025-05-01%20111453.png)
 ### Reflection (STAR)
 
 **S – Situation:**  
