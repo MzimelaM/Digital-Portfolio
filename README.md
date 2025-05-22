@@ -52,7 +52,7 @@ The test helped me confirm that leadership and communication are my strengths, a
 ## Create a CV
 
 ### 📝 Evidence
-![My CV Screenshot](images/my-cv.png)
+![My CV Screenshot](https://github.com/MzimelaM/Digital-Portfolio/blob/main/images/Screenshot%202025-05-22%20023336.png)
 
 ### Reflection (STAR)
 
